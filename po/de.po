@@ -607,7 +607,7 @@ msgstr "Tastfeld"
 
 #: ../gtweak/tweaks/tweak_group_keymouse.py:78
 msgid "Click method"
-msgstr "KLickmethode"
+msgstr "Klickmethode"
 
 #: ../gtweak/tweaks/tweak_wacom.py:29
 msgid "Device"
